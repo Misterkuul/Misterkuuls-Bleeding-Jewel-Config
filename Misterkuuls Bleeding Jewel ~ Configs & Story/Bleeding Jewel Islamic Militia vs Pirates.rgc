@@ -1,0 +1,997 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2850565771",
+                    "sourceWorkshopId": 2850565771,
+                    "name": "FIM-92"
+                },
+                {
+                    "sourceDirectory": "1945521083",
+                    "sourceWorkshopId": 1945521083,
+                    "name": "Pistolet Mitrailleur MAS modèle 38 "
+                },
+                {
+                    "sourceDirectory": "1945521083",
+                    "sourceWorkshopId": 1945521083,
+                    "name": "Pistolet Mitrailleur MAS modèle 38 [Secondary]"
+                },
+                {
+                    "sourceDirectory": "2055682529",
+                    "sourceWorkshopId": 2055682529,
+                    "name": "Fusil Mle 1886 M93"
+                },
+                {
+                    "sourceDirectory": "2055682529",
+                    "sourceWorkshopId": 2055682529,
+                    "name": "Fusil Mle 1886 M93/1916"
+                },
+                {
+                    "sourceDirectory": "2055682529",
+                    "sourceWorkshopId": 2055682529,
+                    "name": "Mle 1886 M93-R35"
+                },
+                {
+                    "sourceDirectory": "2082484756",
+                    "sourceWorkshopId": 2082484756,
+                    "name": "Fusil-mitrailleur Modèle 1924 M29"
+                },
+                {
+                    "sourceDirectory": "2094511942",
+                    "sourceWorkshopId": 2094511942,
+                    "name": "Carabine à charqeurs Chauchat"
+                },
+                {
+                    "sourceDirectory": "2193324538",
+                    "sourceWorkshopId": 2193324538,
+                    "name": "Modèle 1935S"
+                },
+                {
+                    "sourceDirectory": "2254820821",
+                    "sourceWorkshopId": 2254820821,
+                    "name": "Fusil à répétition 7 mm 5 M. 36 [Bayonet]"
+                },
+                {
+                    "sourceDirectory": "2254820821",
+                    "sourceWorkshopId": 2254820821,
+                    "name": "Fusil à répétition 7 mm 5 M. 36"
+                },
+                {
+                    "sourceDirectory": "2094511942",
+                    "sourceWorkshopId": 2094511942,
+                    "name": "Mousqueton Berthier Mle 1892/M16"
+                },
+                {
+                    "sourceDirectory": "2094511942",
+                    "sourceWorkshopId": 2094511942,
+                    "name": "Fusil Mle 1907/15-M34"
+                },
+                {
+                    "sourceDirectory": "2094511942",
+                    "sourceWorkshopId": 2094511942,
+                    "name": "Fusil Mle 1907/15"
+                },
+                {
+                    "sourceDirectory": "2755570504",
+                    "sourceWorkshopId": 2755570504,
+                    "name": "MAT-49 (secondary)"
+                },
+                {
+                    "sourceDirectory": "2755570504",
+                    "sourceWorkshopId": 2755570504,
+                    "name": "MAT-49"
+                },
+                {
+                    "sourceDirectory": "2107808813",
+                    "sourceWorkshopId": 2107808813,
+                    "name": "FAMAS"
+                },
+                {
+                    "sourceDirectory": "2107808813",
+                    "sourceWorkshopId": 2107808813,
+                    "name": "FAMAS-4X"
+                },
+                {
+                    "sourceDirectory": "2107808813",
+                    "sourceWorkshopId": 2107808813,
+                    "name": "FAMAS-BURST"
+                },
+                {
+                    "sourceDirectory": "2107808813",
+                    "sourceWorkshopId": 2107808813,
+                    "name": "FAMAS-S"
+                },
+                {
+                    "sourceDirectory": "2107808813",
+                    "sourceWorkshopId": 2107808813,
+                    "name": "FAMAS-S/4X"
+                },
+                {
+                    "sourceDirectory": "2846364252",
+                    "sourceWorkshopId": 2846364252,
+                    "name": "HAR-66 Anti Tank"
+                },
+                {
+                    "sourceDirectory": "2846364252",
+                    "sourceWorkshopId": 2846364252,
+                    "name": "HAR-66 High Explosive"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "AMMO BOX"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "ENGINEER'S WRENCH"
+                },
+                {
+                    "sourceDirectory": "2660712924",
+                    "sourceWorkshopId": 2660712924,
+                    "name": "M4 Bayonet"
+                },
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "AN M8 Smoke"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "F1 FRAG"
+                },
+                {
+                    "sourceDirectory": "2713693840",
+                    "sourceWorkshopId": 2713693840,
+                    "name": "Molotov Cocktail"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2783469520",
+                    "sourceWorkshopId": 2783469520,
+                    "name": "tripod pickup DSHKM by Sowen"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2776739934",
+                    "sourceWorkshopId": 2776739934,
+                    "name": "Unimog 404"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2551561064",
+                    "sourceWorkshopId": 2551561064,
+                    "name": "AML-Yemen"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2567339088",
+                    "sourceWorkshopId": 2567339088,
+                    "name": "HRS-1 7"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2550154115",
+                    "sourceWorkshopId": 2550154115,
+                    "name": "P-39"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2589971675",
+                    "sourceWorkshopId": 2589971675,
+                    "name": "MG assault boatA"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2561051353",
+                    "sourceWorkshopId": 2561051353,
+                    "name": "HE111 prefab"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2414105239",
+                    "sourceWorkshopId": 2414105239,
+                    "name": "Rooikat dual35"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "1976243893",
+                    "sourceWorkshopId": 1976243893,
+                    "name": "M3A1 Scout Car"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2597290958",
+                    "sourceWorkshopId": 2597290958,
+                    "name": "AAN F1"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2524258532",
+                    "sourceWorkshopId": 2524258532,
+                    "name": "Milan"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2679130740",
+                    "sourceWorkshopId": 2679130740,
+                    "name": "dual24 bySowen"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2847495613",
+                "sourceWorkshopId": 2847495613,
+                "name": "Insurgent-Recon 1"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "AN M8 Smoke"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "RGN FRAG"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "RGO FRAG"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "RGD-5 FRAG"
+                },
+                {
+                    "sourceDirectory": "2713693840",
+                    "sourceWorkshopId": 2713693840,
+                    "name": "Molotov Cocktail"
+                },
+                {
+                    "sourceDirectory": "2087463685",
+                    "sourceWorkshopId": 2087463685,
+                    "name": "Lee–Enfield No. 4 Mk I [Scoped]"
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Drum magazine/Early]"
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Box magazine/Late]"
+                },
+                {
+                    "sourceDirectory": "2121466562",
+                    "sourceWorkshopId": 2121466562,
+                    "name": "Rifle, caliber .30, M1E7"
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Box magazine/Early]"
+                },
+                {
+                    "sourceDirectory": "2121466562",
+                    "sourceWorkshopId": 2121466562,
+                    "name": "Rifle, caliber .30, M1 "
+                },
+                {
+                    "sourceDirectory": "2081926939",
+                    "sourceWorkshopId": 2081926939,
+                    "name": "Pistolet-pulemyot Sudayeva"
+                },
+                {
+                    "sourceDirectory": "1924648668",
+                    "sourceWorkshopId": 1924648668,
+                    "name": "Maschinengewehr 42 [Gear]"
+                },
+                {
+                    "sourceDirectory": "2848990889",
+                    "sourceWorkshopId": 2848990889,
+                    "name": "Webley Mk VI Revolver"
+                },
+                {
+                    "sourceDirectory": "1924648668",
+                    "sourceWorkshopId": 1924648668,
+                    "name": "Maschinengewehr 42"
+                },
+                {
+                    "sourceDirectory": "1871105003",
+                    "sourceWorkshopId": 1871105003,
+                    "name": "Walther P38"
+                },
+                {
+                    "sourceDirectory": "1713690812",
+                    "sourceWorkshopId": 1713690812,
+                    "name": "Sten Mark2 [Secondary]"
+                },
+                {
+                    "sourceDirectory": "2849000989",
+                    "sourceWorkshopId": 2849000989,
+                    "name": "M1A1 Thompson"
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Drum magazine/Late]"
+                },
+                {
+                    "sourceDirectory": "2596901273",
+                    "sourceWorkshopId": 2596901273,
+                    "name": "Bren Mk2"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Scope"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "ENGINEER'S WRENCH"
+                },
+                {
+                    "sourceDirectory": "1713690812",
+                    "sourceWorkshopId": 1713690812,
+                    "name": "Sten Mark2"
+                },
+                {
+                    "sourceDirectory": "2849776151",
+                    "sourceWorkshopId": 2849776151,
+                    "name": "SA18"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "AMMO BOX"
+                },
+                {
+                    "sourceDirectory": "2660712924",
+                    "sourceWorkshopId": 2660712924,
+                    "name": "M4 Bayonet"
+                },
+                {
+                    "sourceDirectory": "2087463685",
+                    "sourceWorkshopId": 2087463685,
+                    "name": "Lee–Enfield No. 4 Mk I "
+                },
+                {
+                    "sourceDirectory": "2287555408",
+                    "sourceWorkshopId": 2287555408,
+                    "name": "Hawk Springfield"
+                },
+                {
+                    "sourceDirectory": "1532594348",
+                    "sourceWorkshopId": 1532594348,
+                    "name": "DOUBLE-BARRELED SHOTGUN"
+                },
+                {
+                    "sourceDirectory": "2809353229",
+                    "sourceWorkshopId": 2809353229,
+                    "name": "Model 725"
+                },
+                {
+                    "sourceDirectory": "2809353229",
+                    "sourceWorkshopId": 2809353229,
+                    "name": "Model 725 Sawn Off"
+                },
+                {
+                    "sourceDirectory": "2448005312",
+                    "sourceWorkshopId": 2448005312,
+                    "name": "IZh-18EM-M"
+                },
+                {
+                    "sourceDirectory": "2346401222",
+                    "sourceWorkshopId": 2346401222,
+                    "name": "Ruger MK III"
+                },
+                {
+                    "sourceDirectory": "1532594348",
+                    "sourceWorkshopId": 1532594348,
+                    "name": "SAWED-OFF SHOTGUN"
+                },
+                {
+                    "sourceDirectory": "1349349407",
+                    "sourceWorkshopId": 1349349407,
+                    "name": "LUGER P08"
+                },
+                {
+                    "sourceDirectory": "2577858570",
+                    "sourceWorkshopId": 2577858570,
+                    "name": "AK 47"
+                },
+                {
+                    "sourceDirectory": "2305024965",
+                    "sourceWorkshopId": 2305024965,
+                    "name": "PMm"
+                },
+                {
+                    "sourceDirectory": "1844604654",
+                    "sourceWorkshopId": 1844604654,
+                    "name": "UZI"
+                },
+                {
+                    "sourceDirectory": "1844604654",
+                    "sourceWorkshopId": 1844604654,
+                    "name": "UZI-S"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "F1 FRAG"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Multi-Scope"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2783469520",
+                    "sourceWorkshopId": 2783469520,
+                    "name": "tripod pickup DSHKM by Sowen"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "1448353083",
+                    "sourceWorkshopId": 1448353083,
+                    "name": "Motorbike"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2790174577",
+                    "sourceWorkshopId": 2790174577,
+                    "name": "pickup BTR"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2627832198",
+                    "sourceWorkshopId": 2627832198,
+                    "name": "GAZ-53-12"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2627832198",
+                    "sourceWorkshopId": 2627832198,
+                    "name": "GAZ-53-12"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2351398036",
+                    "sourceWorkshopId": 2351398036,
+                    "name": "Gaz-66 v2 4"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2351398036",
+                    "sourceWorkshopId": 2351398036,
+                    "name": "Gaz-66 v2 4"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2782397041",
+                    "sourceWorkshopId": 2782397041,
+                    "name": "40mm pickup-Nigeria"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2846697185",
+                    "sourceWorkshopId": 2846697185,
+                    "name": "DSHKM standard by Sowen"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2149584311",
+                    "sourceWorkshopId": 2149584311,
+                    "name": "triple 107"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2846697185",
+                    "sourceWorkshopId": 2846697185,
+                    "name": "DSHKM 1943sight"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2007134377",
+                "sourceWorkshopId": 2007134377,
+                "name": "African Pirate"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2113476986",
+            "sourceWorkshopId": 2113476986,
+            "name": "Auto Squad",
+            "fields": [
+                {
+                    "id": "botCount",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "autoFill",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "dropdownVersion",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2121823035",
+            "sourceWorkshopId": 2121823035,
+            "name": "Custom Blood Color",
+            "fields": [
+                {
+                    "id": "rSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "gSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderEagle",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "rSliderRaven",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "gSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "aSliderRaven",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "aSliderEagle",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "hexValueEagle",
+                    "serializedValue": "#0000ff"
+                },
+                {
+                    "id": "hexValueRaven",
+                    "serializedValue": "#ff0000"
+                },
+                {
+                    "id": "disableBlood",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "usePresets",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "hexColorEnabled",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "preset",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2407513273",
+            "sourceWorkshopId": 2407513273,
+            "name": "Universal Camera Shake",
+            "fields": [
+                {
+                    "id": "Vehicle",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Spread",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Shaking",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2565510240",
+            "sourceWorkshopId": 2565510240,
+            "name": "Black Ops <color=red>Cold War</color> Style HUD",
+            "fields": [
+                {
+                    "id": "displayName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "healthBarVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "weaponHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "vehicleHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "playerNameVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "squadTextVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "healthNumberVisibility",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2573410809",
+            "sourceWorkshopId": 2573410809,
+            "name": "BATTLE STATISTICS",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2786737246",
+            "sourceWorkshopId": 2786737246,
+            "name": "Effective Range Decreaser",
+            "fields": [
+                {
+                    "id": "minthres",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "maxthres",
+                    "serializedValue": "2000"
+                },
+                {
+                    "id": "dividevalue",
+                    "serializedValue": "10"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2795780149",
+            "sourceWorkshopId": 2795780149,
+            "name": "Bot skill level tweaker",
+            "fields": [
+                {
+                    "id": "allylevel",
+                    "serializedValue": "3"
+                },
+                {
+                    "id": "enemylevel",
+                    "serializedValue": "3"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799656963",
+            "sourceWorkshopId": 2799656963,
+            "name": "Weapon slot based running speed",
+            "fields": [
+                {
+                    "id": "PrimarySpeedMod",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "SecondarySpeedMod",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "GearSpeedMod",
+                    "serializedValue": "15"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799793905",
+            "sourceWorkshopId": 2799793905,
+            "name": "Universal Recoil",
+            "fields": [
+                {
+                    "id": "recoilAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "swayAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "trendMultiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "recoveryAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "pushMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "rockMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "crouchMult",
+                    "serializedValue": "0.7"
+                },
+                {
+                    "id": "proneMult",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "reducedVisual",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "bannedWeps",
+                    "serializedValue": "artemis bow;Example 2"
+                },
+                {
+                    "id": "bannedTags",
+                    "serializedValue": "overhaul;Example 2"
+                },
+                {
+                    "id": "useProneMult",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2814834469",
+            "sourceWorkshopId": 2814834469,
+            "name": "Squad Custom Flag",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "5"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2842598865",
+            "sourceWorkshopId": 2842598865,
+            "name": "Flight Physics",
+            "fields": [
+                {
+                    "id": "BVRImprov",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ETorque",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "RTorque",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "EnergyImprov",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2095193497",
+            "sourceWorkshopId": 2095193497,
+            "name": "<color=#f25c54>Weapon</color> <color=#f4845f>Pickup</color>",
+            "fields": [
+                {
+                    "id": "despawnTime",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "dropChance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "everyBotDrops",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "IsCubeInvisible",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "showWeaponNames",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "versionSelected",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2194473147",
+            "sourceWorkshopId": 2194473147,
+            "name": "Damage Indicator",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2199143756",
+            "sourceWorkshopId": 2199143756,
+            "name": "Headshot Feedback",
+            "fields": [
+                {
+                    "id": "headDismembermentChance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "volumeSlider",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "worldSound",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "headDismemberment",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "headDismemermentParticles",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "oldHeadshotParticles",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "version",
+                    "serializedValue": "9"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2535267658",
+            "sourceWorkshopId": 2535267658,
+            "name": "Enhanced Health",
+            "fields": [
+                {
+                    "id": "maxHP",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "stimOverheal",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healDelay",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "healInterval",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "healValue",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "stimHeal",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "stimDuration",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "speedBoost",
+                    "serializedValue": "1.5"
+                },
+                {
+                    "id": "speedBoostDuration",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "doRegen",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "isPercent",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doQuickAnim",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "doStimRegen",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doStimSpeedBost",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doVignette",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doFadeToBlack",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doStimFlash",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bandageDoOverHeal",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bandageDoSpeedBoost",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "vignetteStyle",
+                    "serializedValue": "1"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
